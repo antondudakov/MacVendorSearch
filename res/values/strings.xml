@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MacVendorSearch</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="mac">MAC-address</string>
+    <string name="address">__:__:__:__:__:__</string>
+    <string name="search">Search</string>
+
+</resources>
