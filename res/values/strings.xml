@@ -12,7 +12,7 @@
      <string name="Author">Author: Anton Dudakov</string> 
  	 <string name="email_label">E-mail:</string> 
  	 <string name="email">anton.dudakov@gmail.com</string>
-
+    <string name="urlstring">http://www.macvendorlookup.com/api/v2/</string>
 
 
 </resources>
